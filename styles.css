@@ -164,7 +164,7 @@ li a {
     }
     .nav-logo, .nav-address, .nav-signin, .nav-orders, .nav-cart {
         margin: 5px 0;
-        padding: 5px 10px;
+        padding: 5px 8px;
     }
     .nav-search {
         width:50%;
@@ -217,7 +217,7 @@ li a {
         translate: -34%; */
     }
     .foot-panel2 {
-        width:80%;
+        width:100%;
         height: auto;
         flex-direction: column;
         padding: 20px 0;
