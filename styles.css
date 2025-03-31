@@ -96,7 +96,7 @@
     flex-wrap: wrap;
     justify-content: space-evenly;
     background-color: rgb(238, 235, 232);
-    padding-bottom: 20px;
+    /* padding-bottom: 20px; */
 }
 .box {
     height: 400px;
@@ -217,10 +217,9 @@ li a {
     .foot-panel2 {
         height: auto;
         max-width: 100%;
-        width: 90vw;
+        width: 100vw;
         flex-direction: column;
-        padding: 20px;
-        margin:0 auto;
+        margin:0;
         text-align: center;
     }
     .foot-panel2 ul {
