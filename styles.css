@@ -213,15 +213,16 @@ li a {
     .foot-panel1 {
         height: 50px;
         font-size: 0.8rem;
-        width: 310%;
-        translate: -34%;
+        /* width: 310%;
+        translate: -34%; */
     }
     .foot-panel2 {
+        width:100%;
         height: auto;
         flex-direction: column;
         padding: 20px 0;
-        width: 310%;
-        translate: -34%;
+        /* width: 310%;
+        translate: -34%; */
     }
     .foot-panel2 ul {
         margin: 15px 0;
