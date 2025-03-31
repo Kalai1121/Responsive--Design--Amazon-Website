@@ -213,20 +213,20 @@ li a {
     .foot-panel1 {
         height: 50px;
         font-size: 0.8rem;
-        /* width: 310%;
-        translate: -34%; */
     }
     .foot-panel2 {
-        width:100%;
         height: auto;
+        max-width: 100%;
+        width: 90vw;
         flex-direction: column;
-        padding: 20px 0;
-        /* width: 310%;
-        translate: -34%; */
+        padding: 20px;
+        margin:0 auto;
+        text-align: center;
     }
     .foot-panel2 ul {
         margin: 15px 0;
         padding: 0 20px;
+        width: 100%;
     }
     .foot-panel2 ul li {
         text-align: center;
@@ -239,7 +239,7 @@ li a {
         font-size: 16px; 
     }
     .search-select {
-        width: 80px;
+        width: 60px;
     }
 }
 @media (max-width: 480px) {
