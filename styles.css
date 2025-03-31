@@ -166,6 +166,10 @@ li a {
         margin: 5px 0;
         padding: 5px 8px;
     }
+    .nav-logo img{
+        width: 80%;
+        padding: 0;
+    }
     .nav-search {
         width:50%;
         margin: 10px auto;
@@ -238,7 +242,10 @@ li a {
         font-size: 16px; 
     }
     .search-select {
-        width: 60px;
+        width: 40px;
+        font-size: 12px;
+        margin:0;
+        padding: 0;
     }
 }
 @media (max-width: 480px) {
