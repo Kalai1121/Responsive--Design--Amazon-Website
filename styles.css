@@ -217,7 +217,7 @@ li a {
         translate: -34%; */
     }
     .foot-panel2 {
-        width:100%;
+        width:80%;
         height: auto;
         flex-direction: column;
         padding: 20px 0;
